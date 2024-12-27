@@ -2,7 +2,5 @@
 
 def add(a, b):
     r = a + b
-    return r + 1
+    return r + 2
 
-def greet(name):
-    return f"こんにちは、{name}さん！"
