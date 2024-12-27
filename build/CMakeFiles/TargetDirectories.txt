@@ -1,0 +1,3 @@
+/home/koji/pybind_ws/build/CMakeFiles/main.dir
+/home/koji/pybind_ws/build/CMakeFiles/edit_cache.dir
+/home/koji/pybind_ws/build/CMakeFiles/rebuild_cache.dir
